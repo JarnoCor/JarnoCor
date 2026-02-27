@@ -19,7 +19,7 @@ I am currently focused on school, but every now and then I work on some side pro
 ### About me
 
 - 🏃 I like sports (doing, not watching), like running
-- 🎵 Music player
+- 🎵 I play music
 - 🛠️ I like building things that are useful.
 
 <!--
